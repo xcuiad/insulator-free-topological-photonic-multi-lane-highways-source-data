@@ -23,7 +23,6 @@ SourceData/
 ├── CITATION.cff
 ├── LICENSE
 ├── README.md
-├── UPLOAD-CHECKLIST.md
 └── .gitignore
 ```
 
