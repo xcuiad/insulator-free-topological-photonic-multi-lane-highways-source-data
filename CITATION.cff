@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the associated paper and this repository."
+type: dataset
+title: "Source Data for Insulator-free Topological Photonic Multi-Lane Highways"
+version: "1.0.0"
+date-released: "2026-06-09"
+license: "CC-BY-4.0"
+keywords:
+  - physics
+  - photonics
+  - topological photonics
+  - source data
+authors:
+  - given-names: "Xiaohan"
+    family-names: "Cui"
+    affiliation: "Please add your institution"
+repository-code: "https://github.com/xcuiad/insulator-free-topological-photonic-multi-lane-highways-source-data"
+url: "https://github.com/xcuiad/insulator-free-topological-photonic-multi-lane-highways-source-data"
